@@ -14,6 +14,6 @@ However, the study was poorly presented in figures with uncertain statistical an
 
 - Main characteristics of the study subjects should be presented, like sample size, sex and folds of HV2 amplification of all the ages in Figure 1.
 
-- In all the tests, a *p*-value below 0.05 was considerated to be significant. But either the negative correlation between the number of defective amplification events and age in dentin or pulp were shown in both populations in Figure 1. 
+- In all the tests, a *p*-value below 0.05 was considerated to be significant. But either the negative correlation between the number of defective amplification events and age in dentin or pulp were shown corresponding *p*-value in both populations in Figure 1. 
 
 - The same problem in Figure 2, only correlation coefficients were presented, but their associated *p*-value were not given respectively, the significance was not statistically evaluated. 
