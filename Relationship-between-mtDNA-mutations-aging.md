@@ -1,6 +1,6 @@
 ## To editors
 
-In general, the authors reported the negative correlation between mtDNA damage and aging in dentin from two Spanish populations. It is a possible approach to estimate the age-at-death based on mtDNA from teeth in the forensic cases. However, the study was poorly presented in tables and figures and it is lack of correct statistical analysis in methods. Most of the reference is not state-of-the-art, raging from 1956 to 2013 and 2000 as its median. The paper could not be published in its present form. 
+In general, the authors reported the negative correlation between mtDNA damage and aging in dentin from two Spanish populations. It is a possible approach to estimate the age-at-death based on mtDNA from teeth in the forensic cases. However, the study was poorly presented in tables and figures and it is lack of correct statistical analysis in methods. Most of the reference is not state-of-the-art, raging from 1956 to 2013 and 2000 as its median. The paper is not very convincing and significant for its claims, and could not be published in its present form. 
 
 ## To authors
 
