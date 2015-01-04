@@ -8,7 +8,7 @@ It seems the first study to provide estimation of age-at-death by evaluating mut
 
 However, the study was poorly presented in figures with uncertain statistical analysis and also lack of description tables.
 
-- Analysis of mtDNA damage is based on real-time PCR. However, “the analysis of relative gene expression data was calculated using...is not correct. HV2 in D-loop is not a coding gene and "folds of amplification" is more precise.
+- Analysis of mtDNA damage is based on real-time PCR. However, “the analysis of relative gene expression data was calculated using..." is not correct. HV2 in D-loop is not a coding gene and "folds of amplification" is more precise.
 
 - Oxidative damage may affect mitochondrial DNA replication and transcription with aging, and results in alterations of the mtDNA including point mutations, deletions and DNA strand breaks. As authors had developed a new methodology to analyze mtDNA, it will be better to compare the other detection of mitochondrial DNA mutations as control in both populations.
 
