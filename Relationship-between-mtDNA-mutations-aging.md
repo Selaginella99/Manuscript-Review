@@ -1,6 +1,6 @@
 ## To editors
 
-In general, the authors reported the negative correlation between mtDNA damage and aging in dentin from two Spanish populations. It is a possible approach to estimate the age-at-death based on mtDNA from teeth in the forensic cases. However, the study was poorly presented in figures and tables, and it is lack of correct statistical analysis in methods. Most of the reference is not state-of-the-art, raging from 1956 to 2013 and 2000 as its median. The paper is not very convincing and significant for its claims, and it could not be published in its present form. 
+In general, the authors reported the negative correlation between mtDNA damage and aging in dentin from two Spanish populations. It is a possible approach to estimate the age-at-death based on mtDNA from teeth in the forensic cases. However, the study was poorly presented in figures and tables, and it is lack of correct statistical analysis in methods. Most of the reference is not state-of-the-art, ranging from 1956 to 2013 and 2000 as its median. The paper is not very convincing and significant for its claims, and it could not be published in its present form. 
 
 ## To authors
 
@@ -16,7 +16,7 @@ However, the study was poorly presented in figures with uncertain statistical an
 
 - Main characteristics of the study subjects should be presented, like sample size, sex and folds of HV2 amplification of in all ages in Figure 1.
 
-- In all the tests, a *p*-value below 0.05 was considerated to be significant. But the negative correlation between the number of defective amplification events and age in dentin and pulp was shown the corresponding *p*-value in both populations in Figure 1. 
+- In all the tests, a *p*-value below 0.05 was considered to be significant. But the negative correlation between the number of defective amplification events and age in dentin and pulp was shown the corresponding *p*-value in both populations in Figure 1. 
 
 - The same problem in Figure 2, only correlation coefficients were presented, but their associated *p*-value were not given respectively, the significance was not statistically evaluated.
  
