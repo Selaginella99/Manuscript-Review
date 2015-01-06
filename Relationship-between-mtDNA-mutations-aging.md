@@ -2,7 +2,7 @@
 
 In general, the authors reported the negative correlation between mtDNA damage and aging in dentin from two Spanish populations. It appears to be a new approach to estimating the age-at-death based on mtDNA from teeth in the forensic cases. However, the study was not very convincing for its claims because of apparent flaws in statistical analysis, therefore major improvement is needed in statistical analysis section (see my extended comments in response to authors). Additional tables are also need to be added. Also, text and titles on figures need grammar check. 
 
-In sum, the paper could not be published in its present form, major revision is recommended. 
+In sum, the paper could not be published in its present form, ... is recommended. 
 
 
 ## To authors
@@ -37,7 +37,7 @@ The same problem in Figure 2, only correlation coefficients were presented, but 
 
 - P7 – P8:
 
-The reference is not state-of-the-art. Wittwer-Backofen U et al. (Anthropol Anz. 2014; 71(1-2):65-86), Speller CF et al. (J Forensic Sci. 2012 Sep; 57(5):1354-60) also reported the estimation of age-at-death from human bone.
+The reference is not state-of-the-art. Wittwer-Backofen U *et al*. (Anthropol Anz. 2014; 71(1-2):65-86), Speller CF *et al*. (J Forensic Sci. 2012 Sep; 57(5):1354-60) also reported the estimation of age-at-death from human bone.
 
 - P11:
 
