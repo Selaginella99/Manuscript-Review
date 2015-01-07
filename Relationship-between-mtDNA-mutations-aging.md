@@ -1,8 +1,19 @@
 ## To editors
 
-In general, the authors reported the negative correlation between mtDNA damage and aging in dentin from two Spanish populations. It appears to be a new approach to estimating the age-at-death based on mtDNA from teeth in the forensic cases. However, the study was not very convincing for its claims because of apparent flaws in statistical analysis, therefore major improvement is needed in statistical analysis section (see my extended comments in response to authors). Additional tables are also need to be added. Also, text and titles on figures need grammar check. 
+The authors suggested a new approach to estimating the age-at-death based on mtDNA from teeth, which could potentially benefit areas of forensic evaluation and aging research. They reported the strong linear negative correlation between mtDNA amplification and age in dentin from two Spanish populations. 
+However, the study was not very convincing for its claims because of lack of detail on statistical analysis, and lack of discussion on advantage of the proposed method over existing TCA approach. Major improvement are, therefore, needed in statistical analysis and discussion sections (see my extended comments in response to authors). Also, text and titles on figures need grammar check. 
 
 In sum, the paper could not be published in its present form, ... is recommended. 
+
+
+## To authors: 
+
+It seems to be the first study to provide estimation of age-at-death by evaluating amplifications in mitochondrial DNA from teeth in sixty Spanish. The suggested approach may potentially have significant impact on both aging research and forensic cases, in case if it substantially improves accuracy of other methods of estimating age-at-death using dental material, such as TCA.   
+
+However, major improvement of statistical analysis section is needed, and some clarifying tables have to be included, as described below. Also, discussion on advantage of the proposed method over existing TCA (tooth-cementum annulations) approach, especially in terms of the method’s accuracy and simplicity, is required to back up authors’ claim that their method could improve the estimation of age-at-death in forensic cases and aging research (see also Comment for Pages 7-10, References, below). Also, main text and titles on figures need overall English grammar check. 
+
+Other Comments: 
+
 
 
 ## To authors
